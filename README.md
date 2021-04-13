@@ -1,6 +1,8 @@
 # KiTSUNE HIKARI Basic 🦊
 >
-Basic light meter for film camera
+Basic light meter for film camera  
+- [Feature](##Feature)
+- [Microcontroller support](##Microcontroller-support)
 >
 ## Feature
 - Aperture priority mode only.
