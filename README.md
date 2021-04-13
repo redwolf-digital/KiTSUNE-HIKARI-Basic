@@ -33,3 +33,13 @@ Basic light meter for film camera
 - BH1750FVI ( by PeterEmbedded )
 ## Schematic
 ![](image/KiTSUNE_HIKARI-basic-Arduino.jpg)
+
+## How to use
+press or hold ***[ F1 ]*** button in main screen for change aperture
+> Min 0.95  
+> Max 22
+> 
+press or hold ***[ F2 ]*** button in main screen for change ISO
+> Min 12  
+> Max 6400
+> 
