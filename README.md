@@ -1,9 +1,14 @@
 # KiTSUNE HIKARI Basic 🦊
 >
 Basic light meter for film camera  
+  
+Manu  
 - [Feature](#Feature)
 - [Microcontroller support](#Microcontroller-support)
->
+- [Requirement](#Requirement)
+- [Schematic](#Schematic)
+- [How to use](#How-to-use)
+  
 ## Feature
 - Aperture priority mode only.
 - Type of measurement.
