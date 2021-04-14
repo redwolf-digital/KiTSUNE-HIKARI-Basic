@@ -68,13 +68,13 @@ press ***[ measure ]*** button for switch mode between reflected-light mode and 
 press ***[ measure ]*** button for increase time  
 > min 15 sce.  
 > max 45 sec.  
-> *If value is exceeded press hold button and value will loop back again.*  
+> *If value is exceeded press hold button and value will circle again.*  
 >
 ### Shutdown time page  
 press ***[ measure ]*** button for increase time
 > min 1 min.  
 > max 5 min.  
-> *If value is exceeded press hold button and value will loop back again.*  
+> *If value is exceeded press hold button and value circle again.*  
 >
 ### Reset page  
 press ***[ measure ]*** button for reset to default  
@@ -100,5 +100,5 @@ SHUTDOWN_TIME     = 60000;   //1 min.
 > *you can see at line 263-396*
 > 
 > SLEEP_TIME and SHUTDOWN_TIME  
-> It is measured in milliseconds.  
+> measured in milliseconds.  
 > 
