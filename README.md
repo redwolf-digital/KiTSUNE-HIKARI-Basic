@@ -83,7 +83,7 @@ if want to cancle press ***[ F1 ]***
   
 if want to castom value by yousalf go to line 580-587  
 default is
-```
+```c++
 TYPE_measure      = 0;
 AepSelect         = 10;
 APERTURE          = 2.8;
