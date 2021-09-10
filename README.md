@@ -38,7 +38,7 @@ Manu
 ### Library
 - Adafruit_GFX
 - Adafruit_SSD1306
-- BH1750FVI ( by PeterEmbedded )
+- BH1750FVI [( by PeterEmbedded )](https://github.com/PeterEmbedded/BH1750FVI)
 ## Schematic
 ![](image/KiTSUNE_HIKARI-basic-Arduino.jpg)
 
